@@ -1,0 +1,78 @@
+{
+  "discordid": "818936408898273300",
+  "enabled": true,
+  "debugging": false,
+  "version": 4,
+  "init": {
+    "_comment": "This is called while MC and Forge is loading",
+    "enabled": true,
+    "state": "Aerion is loading",
+    "description": "Game Loading...",
+    "largeImageKey": "screen",
+    "largeImageText": "Aerion - %mcver% building focused modpack",
+    "smallImageKey": "loading",
+    "smallImageText": "%mods% mods installed"
+  },
+  "main_menu": {
+    "_comment": "This is called when the player is on the main menu",
+    "enabled": true,
+    "state": "Chillin' in the menus",
+    "description": "In the Menus",
+    "largeImageKey": "screen",
+    "largeImageText": "Aerion - %mcver% building focused modpack",
+    "smallImageKey": "main",
+    "smallImageText": "%mods% mods installed"
+  },
+  "server_list": {
+    "_comment": "This is called when the player is on the multiplayer Screen",
+    "enabled": true,
+    "state": "%player% is looking at their servers",
+    "description": "Searching For Friends",
+    "largeImageKey": "screen",
+    "largeImageText": "Aerion - %mcver% building focused modpack",
+    "smallImageKey": "world",
+    "smallImageText": "%mods% mods installed"
+  },
+  "single_player": {
+    "_comment": "This is called when the player is playing in single player mode",
+    "enabled": true,
+    "state": "In %world%",
+    "description": "Playing Locally",
+    "largeImageKey": "screen",
+    "largeImageText": "Aerion - %mcver% building focused modpack",
+    "smallImageKey": "world",
+    "smallImageText": "%mods% mods installed",
+    "allowSpectate": false
+  },
+  "multi_player": {
+    "_comment": "This is called when the player is playing multi-player",
+    "enabled": true,
+    "state": "Playing on %servername% (%ip%) with %players% players",
+    "description": "Playing Online",
+    "largeImageKey": "screen",
+    "largeImageText": "Aerion - %mcver% building focused modpack",
+    "smallImageKey": "world",
+    "smallImageText": "%mods% mods installed",
+    "allowSpectate": false,
+    "allowJoin": false
+  },
+  "join_game": {
+    "_comment": "This is called when the player is joining a game",
+    "enabled": true,
+    "state": "%player% is joining a game",
+    "description": "Joining Game",
+    "largeImageKey": "screen",
+    "largeImageText": "Aerion - %mcver% building focused modpack",
+    "smallImageKey": "main",
+    "smallImageText": "%mods% mods installed"
+  },
+  "generic": {
+    "_comment": "This is a fallback event for when any of the above ones are disabled",
+    "state": "Playing Aerion",
+    "description": "",
+    "largeImageKey": "screen",
+    "largeImageText": "Aerion - %mcver% building focused modpack",
+    "smallImageKey": "loading",
+    "smallImageText": "%mods% mods installed"
+  }
+}

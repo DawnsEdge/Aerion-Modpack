@@ -1,0 +1,1 @@
+resourcePacks:["vanilla","mod_resources","quark:emote_resources","file/Aerion Resources"]
