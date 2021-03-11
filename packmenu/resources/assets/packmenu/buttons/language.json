@@ -1,15 +1,17 @@
 {
-	"x": -124,
-	"y": 84,
-	"width": 20,
-	"height": 20,
+	"x": -134,
+	"y": 37,
+	"width": 32,
+	"height": 32,
 	"u": 0,
-	"v": 106,
+	"v": 0,
 	"hoverU": 0,
-	"hoverV": 126,
-	"texWidth": 256,
-	"texHeight": 256,
+	"hoverV": 32,
+	"texWidth": 64,
+	"texHeight": 64,
+	"texture": "packmenu:textures/gui/small_buttons.png",
 	"widgets": false,
 	"action": "OPEN_GUI",
-	"data": "LANGUAGE"
+	"data": "LANGUAGE",
+	"anchor": "MIDDLE_CENTER"
 }

@@ -1,15 +1,17 @@
 {
-	"x": 104,
-	"y": 84,
-	"width": 20,
-	"height": 20,
-	"u": 0,
+	"x": 99,
+	"y": 37,
+	"width": 32,
+	"height": 32,
+	"u": 32,
 	"v": 0,
-	"hoverU": 0,
-	"hoverV": 20,
-	"texWidth": 32,
+	"hoverU": 32,
+	"hoverV": 32,
+	"texWidth": 64,
 	"texHeight": 64,
-	"texture": "textures/gui/accessibility.png",
+	"texture": "packmenu:textures/gui/small_buttons.png",
+	"widgets": false,
 	"action": "OPEN_GUI",
-	"data": "ACCESSIBILITY"
+	"data": "ACCESSIBILITY",
+	"anchor": "MIDDLE_CENTER"
 }

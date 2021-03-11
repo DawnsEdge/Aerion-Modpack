@@ -17,53 +17,54 @@
 
 	[registration.blocks]
 		clock_block = true
-		pedestal = true
-		blackboard = true
-		netherite_door = true
-		sconce_soul = true
-		candle_holder = true
 		speaker_block = true
 		sack = true
 		#WIP
-		flag = false
-		#WIP
 		laser_block = false
-		rope = true
 		bellows = true
-		notice_board = true
 		hanging_sign = true
-		redstone_illuminator = true
+		bomb = true
 		cage = true
-		lock_block = true
-		flax = true
 		bamboo_spikes = true
-		planter = true
-		wind_vane = true
 		hourglass = true
 		jar = true
 		sconce_ender = true
 		rope_arrow = true
-		item_shelf = true
 		checker_block = true
-		turn_table = true
-		faucet = true
 		stone_lamp = true
 		cog_block = true
 		crank = true
-		gold_trapdoor = true
 		copper_lantern = true
 		pancake = true
 		piston_launcher = true
 		netherite_trapdoor = true
 		fodder = true
-		sconce_green = false
-		flute = true
-		pulley_block = true
 		globe = true
 		sconce = true
 		candelabra = true
-		gold_door = true
 		safe = true
 		sconce_lever = true
 		sign_post = true
+		pedestal = true
+		blackboard = true
+		netherite_door = true
+		sconce_soul = true
+		candle_holder = true
+		#WIP
+		flag = false
+		rope = true
+		notice_board = true
+		redstone_illuminator = true
+		lock_block = true
+		flax = true
+		planter = true
+		wind_vane = true
+		item_shelf = true
+		turn_table = true
+		faucet = true
+		gold_trapdoor = true
+		sconce_green = false
+		flute = true
+		pulley_block = true
+		gold_door = true
 

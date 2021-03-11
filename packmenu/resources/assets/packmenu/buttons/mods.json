@@ -1,9 +1,18 @@
 {
-	"x": -100,
-	"y": 48,
-	"width": 98,
-	"height": 20,
+	"x": -161,
+	"y": 0,
+	"width":160,
+	"height": 35,
+	"u": 0,
+	"v": 0,
+	"hoverU": 0,
+	"hoverV": 35,
+	"texWidth": 160,
+	"texHeight": 70,
+	"texture": "packmenu:textures/gui/buttons.png",
+	"widgets": false,
 	"langKey": "fml.menu.mods",
 	"action": "OPEN_GUI",
-	"data": "MODS"
+	"data": "MODS",
+	"anchor": "MIDDLE_CENTER"
 }

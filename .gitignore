@@ -1,0 +1,17 @@
+mods/
+simple-rpc/
+shaderpacks/
+scripts/
+screenshots/
+saves/
+logs/
+downloads/
+defaultconfigs/
+.mixin.out/
+optionsof.txt
+optionsshaders.txt
+realms_persistence.json
+usercache.json
+usernamecache.json
+.curseclient
+*.ase

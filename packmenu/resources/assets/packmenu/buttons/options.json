@@ -1,9 +1,18 @@
 {
-	"x": -100,
-	"y": 84,
-	"width": 98,
-	"height": 20,
+	"x": 1,
+	"y": 0,
+	"width":160,
+	"height": 35,
+	"u": 0,
+	"v": 0,
+	"hoverU": 0,
+	"hoverV": 35,
+	"texWidth": 160,
+	"texHeight": 70,
+	"texture": "packmenu:textures/gui/buttons.png",
+	"widgets": false,
 	"langKey": "menu.options",
 	"action": "OPEN_GUI",
-	"data": "OPTIONS"
+	"data": "OPTIONS",
+	"anchor": "MIDDLE_CENTER"
 }
